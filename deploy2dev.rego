@@ -1,4 +1,4 @@
-package pipeline.cd.deploy_to_dev
+package pipeline.deploy2dev
 
 # By default, deny requests
 default allow = false
