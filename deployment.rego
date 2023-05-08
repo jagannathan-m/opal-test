@@ -1,4 +1,4 @@
-package pipeline.deploy2dev
+package pipeline.deployment
 
 # By default, deny requests
 default allow = false
