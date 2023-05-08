@@ -10,5 +10,5 @@ allow {
 
 # check whether code_coverage_is_acceptable
 code_coverage_is_acceptable {
-	input.branch_name != "master",
+	input.branch_name != "master"
 }
