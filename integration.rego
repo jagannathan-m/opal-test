@@ -15,5 +15,5 @@ code_coverage_is_acceptable {
 
 code_coverage_is_acceptable {
 	input.branch_name == "master"
-	data.branches[input.project][input.branch_name].code_coverage >= 85
+	data.branches[input.project][input.branch_name].code_coverage.percentage >= 85
 }
