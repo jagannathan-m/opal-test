@@ -1,0 +1,30 @@
+{
+	"PLAT": {
+		"feature/PLAT_123_some_feature": {
+			"code_coverage": 50,
+			"artifacts": {
+				"4afa23b1": {
+					"critical": {
+						"count": 0
+					},
+					"high": {
+						"count": 1
+					}
+				}
+			}
+		},
+		"master": {
+			"code_coverage": 80,
+			"artifacts": {
+				"3be4cd12": {
+					"critical": {
+						"count": 1
+					},
+					"high": {
+						"count": 1
+					}
+				}
+			}
+		}
+	}
+}
